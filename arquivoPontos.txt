@@ -1,0 +1,13 @@
+12
+A 10.0 60.0 Rua_Alecrim Rua_Primavera
+B 30.0 60.0 Rua_Alecrim Rua_Lavanda
+C 50.0 60.0 Rua_Alecrim Rua_Hortensia
+D 80.0 60.0 Rua_Alecrim Rua_Bromelia
+E 50.0 50.0 Rua_Jacaranda Rua_Hortensia
+F 80.0 50.0 Rua_Jacaranda Rua_Bromelia
+G 10.0 30.0 Rua_Camelia Rua_Primavera
+H 30.0 30.0 Rua_Camelia Rua_Lavanda
+I 50.0 30.0 Rua_Camelia Rua_Hortensia
+J 10.0 5.0 Rua_Margarida Rua_Primavera
+K 50.0 5.0 Rua_Margarida Rua_Hortensia
+L 80.0 5.0 Rua_Margarida Rua_Bromelia

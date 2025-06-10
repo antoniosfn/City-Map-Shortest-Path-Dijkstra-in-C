@@ -1,0 +1,17 @@
+15
+A B Rua_Alecrim 10.5
+B C Rua_Alecrim 12.3
+B H Rua_Lavanda 8.7
+C D Rua_Alecrim 9.2
+D F Rua_Bromelia 11.6
+F E Rua_Jacaranda 7.4
+F L Rua_Bromelia 13.1
+G J Rua_Primavera 6.9
+H B Rua_Lavanda 8.7
+H G Rua_Camelia 5.6
+H I Rua_Camelia 9.3
+I E Rua_Hortensia 10.2
+J K Rua_Margarida 7.5
+K J Rua_Margarida 7.5
+K I Rua_Hortensia 8.1
+K L Rua_Margarida 6.8
